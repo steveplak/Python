@@ -17,6 +17,8 @@ def DiceGameLayout(root):
     label_2.pack()
 
         # hiiii Seerat
+        # Hi Stavros
+        
 
     Text_Box_1 = tk.Entry(root, justify= "center")
     Text_Box_1.insert(0,"Computer")
