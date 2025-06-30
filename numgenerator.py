@@ -2,7 +2,7 @@ import random
 
 def main():
     print("Welcome to the game, You have 7 tries to find the number I am guessing")
-    Game(10,1)
+    Game(10,6)
     print("Time to get a bit harder")
     Game(100, 6)
     
